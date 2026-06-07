@@ -1,5 +1,10 @@
 # AI Career Recommendation System
 
+## Live Demo
+
+🚀 **Experience It Here:**
+[Launch AI Career Recommendation System](https://career-ai-score--310625244004.replit.app/)
+
 ## Overview
 
 The AI Career Recommendation System is a Python-based application that helps users identify suitable career paths based on their interests and preferences. Using an interactive questionnaire and a scoring mechanism, the system analyzes responses and provides personalized career recommendations.
@@ -52,7 +57,8 @@ The AI Career Recommendation System is a Python-based application that helps use
 
 ## Author
 
-Anuja
+**Anuja**
+
 
 Screenshots of this app are added below 
 
@@ -65,8 +71,7 @@ Screenshots of this app are added below
 <img width="1904" height="920" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/50f8f347-3ff2-4c63-b880-a2d645340c10" />
 
 
-Repository Link of this app which help to experience the app
-    https://career-ai-score--310625244004.replit.app/
+
 
 
 
