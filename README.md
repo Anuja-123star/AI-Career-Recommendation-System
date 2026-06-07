@@ -56,15 +56,18 @@ Anuja
 
 Screenshots of this app are added below 
 
-
-<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/3eb68165-4079-418c-8bd4-d0ce47347edd" />
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/6792d32e-8d7b-4ff9-ab1b-cd37ffa1daed" />
-<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/a49df144-6d41-4b88-ae5b-8a1cc2b1f656" />
-<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/bf6f219a-892d-45d5-83bf-8e6e24623746" />
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/9031d739-c4aa-476d-a8ad-ed8e3c0e712e" />
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/8afa6114-5c0c-4a10-9bfa-5ab5128dd851" />
-<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/bbb1e4db-c6d7-4cda-a0d7-0aea4bc3d111" />
+<img width="1920" height="907" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/67fcb4c0-88f2-41a3-b2e5-45f5121a3f36" />
+<img width="1920" height="915" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/f8cace06-8b8d-4621-87d7-0b003d877bf9" />
+<img width="1920" height="912" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/ac25a635-474d-436a-a16a-76d483bcd009" />
+<img width="1920" height="913" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/21c37264-57db-4fd9-90e8-008fe08f5a9c" />
+<img width="1908" height="929" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/829c80d8-b2ba-4f8b-84cf-e38909c72024" />
+<img width="1905" height="926" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/fe6541a7-9638-4d8d-9b86-23c4b4122fb9" />
+<img width="1904" height="920" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/50f8f347-3ff2-4c63-b880-a2d645340c10" />
 
 
 Repository Link of this app which help to experience the app
     https://career-ai-score--310625244004.replit.app/
+
+
+
+
